@@ -1,5 +1,13 @@
 # Hi there, I'm Pavlo 👋
 
+Let's connect here:
+
+[![Static Badge](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Gmail)](mailto:pavlo.fesenko@gmail.com)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/pavlofesenko/)
+[![Static Badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@pavlo.fesenko)
+[![Static Badge](https://img.shields.io/badge/%F0%9F%98%80%20Mentorship-black?style=for-the-badge)](https://adplist.org/mentors/pavlo-fesenko)
+
+
 ## My technology stack
 
 Programming:
@@ -39,6 +47,7 @@ Cloud:
 
 ![Static Badge](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon%20AWS)
 ![Static Badge](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=Terraform)
+
 
 <!--
 
