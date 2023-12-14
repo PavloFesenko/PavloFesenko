@@ -1,66 +1,50 @@
 # Hi there, I'm Pavlo 👋
 
-Let's connect here:
+I am a Machine Learning Engineer with expertise in MLOps and big data.
 
-[![Static Badge](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=Gmail)](mailto:pavlo.fesenko@gmail.com)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/pavlofesenko/)
-[![Static Badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@pavlo.fesenko)
-[![Static Badge](https://img.shields.io/badge/%F0%9F%98%80%20Mentorship-black?style=for-the-badge)](https://adplist.org/mentors/pavlo-fesenko)
+You can find me on these platforms:
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavlofesenko/)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pavlo.fesenko)
 
-## My technology stack
+## ✍ Blog articles
 
-Programming:
+> [Best open-source models for sentiment analysis — Part 1: dictionary models](https://medium.com/@pavlo.fesenko/best-open-source-models-for-sentiment-analysis-part-1-dictionary-models-ece79e617653) \
+Dictionary modes are really fast but at the price of lower accuracies
+
+> [Best open-source models for sentiment analysis — Part 2: neural networks](https://medium.com/@pavlo.fesenko/best-open-source-models-for-sentiment-analysis-part-2-neural-networks-9749fb5fff76) \
+Use neural networks for higher accuracies if you have a GPU
+
+## 👷‍♂️ Personal projects
+
+### LLM recommender for Arxiv papers (in progress)
+
+- Creating a chatbot that uses large language models to recommend scientific papers from [Arxiv](https://arxiv.org/)
+- Deploying it as a web application to the cloud using <u>open-source</u> LLM tools
+
+Technology stack:
 
 ![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![Static Badge](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=Apache%20Hive)
-![Static Badge](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)
+![Static Badge](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)
+![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97%20LangChain-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=Google%20Cloud)
+![Static Badge](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)
 
-Machine learning:
 
+### [TV show analyzer from GIF images](https://github.com/PavloFesenko/gif_analyzer)
+
+- Fine-tuned a classification model that predicts a TV show from which the GIF image originated
+- Deployed the model as an API to the cloud using <u>always free</u> AWS resources
+- Automated a model serving pipeline using GitHub Actions
+
+Technology stack:
+
+![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=TensorFlow)
 ![Static Badge](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=Keras)
-![Static Badge](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)
-![Static Badge](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=OpenCV)
-![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-black?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Scikit--learn-black?style=for-the-badge&logo=Scikit-learn)
-
-MLOps:
-
 ![Static Badge](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=FastAPI)
-![Static Badge](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)
 ![Static Badge](https://img.shields.io/badge/ONNX-black?style=for-the-badge&logo=ONNX)
 ![Static Badge](https://img.shields.io/badge/MLFlow-black?style=for-the-badge&logo=MLFlow)
-![Static Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
-![Static Badge](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)
-![Static Badge](https://img.shields.io/badge/CI%2FCD-black?style=for-the-badge&logo=GitHub)
-
-Big data:
-
-![Static Badge](https://img.shields.io/badge/Spark-black?style=for-the-badge&logo=Apache%20Spark)
-![Static Badge](https://img.shields.io/badge/NoSQL-black?style=for-the-badge&logo=Elastic)
-![Static Badge](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=Apache%20Kafka)
-![Static Badge](https://img.shields.io/badge/Hadoop-black?style=for-the-badge&logo=Apache%20Hadoop)
-![Static Badge](https://img.shields.io/badge/Airflow-black?style=for-the-badge&logo=Apache%20Airflow)
-
-Cloud:
-
 ![Static Badge](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon%20AWS)
 ![Static Badge](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=Terraform)
-
-
-<!--
-
-**PavloFesenko/PavloFesenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
