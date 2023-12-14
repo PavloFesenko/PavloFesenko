@@ -20,7 +20,7 @@ Use neural networks for higher accuracies if you have a GPU
 ### LLM recommender for Arxiv papers (in progress)
 
 - Creating a chatbot that uses large language models to recommend scientific papers from [Arxiv](https://arxiv.org/)
-- Deploying it as a web application to the cloud using <u>open-source</u> LLM tools
+- Deploying it as a web application to the cloud using *open-source* LLM tools
 
 Technology stack:
 
@@ -32,10 +32,10 @@ Technology stack:
 ![Static Badge](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)
 
 
-### [TV show analyzer from GIF images](https://github.com/PavloFesenko/gif_analyzer)
+### [TV show recognizer from GIF images](https://github.com/PavloFesenko/gif_analyzer)
 
 - Fine-tuned a classification model that predicts a TV show from which the GIF image originated
-- Deployed the model as an API to the cloud using <u>always free</u> AWS resources
+- Deployed the model as an API to the cloud using *always free* AWS resources
 - Automated a model serving pipeline using GitHub Actions
 
 Technology stack:
